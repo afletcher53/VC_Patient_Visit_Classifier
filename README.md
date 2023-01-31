@@ -17,7 +17,7 @@
 
 ## About The Project
 
-This jupyter notebook uses [VetCompass](https://vetcompass.org) data, and simple machine learning architectures to predict if a patients electronic health record is a physical visit to a veterinary practice. Data has been suppled by VetCompass. 
+This jupyter notebook uses [VetCompass](https://www.vetcompass.org/) data, and simple machine learning architectures to predict if a patients electronic health record is a physical visit to a veterinary practice. Data has been suppled by VetCompass. 
 
 A CNN, LSTM, Bilateral LSTM and Stacked Bidirectional LSTM are trained within this  notebook.
 
