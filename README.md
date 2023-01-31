@@ -72,4 +72,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Jupyter-url]: https://www.tensorflow.org/
 [Pandas.js]: https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=blue
 [Pandas-url]: https://pandas.pydata.org/
-[product-screenshot]: output.png
+[product-screenshot]: ./output.png
