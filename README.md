@@ -45,9 +45,9 @@ Glove Embedding is used.
 <!-- CONTACT -->
 ## Contact
 
-Aaron Fletcher - [@twitter_handle](https://twitter.com/twitter_handle) - afletcher@rvc.ac.uk
+Aaron Fletcher - [@aaronhafletcher](https://twitter.com/aaronhafletcher) - afletcher@rvc.ac.uk
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/afletcher53/VC_Patient_Visit_Classifier](https://github.com/afletcher53/VC_Patient_Visit_Classifier)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
